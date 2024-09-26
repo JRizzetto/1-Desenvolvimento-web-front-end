@@ -20,6 +20,7 @@ const galerryImages = [
     }
 ];
 
+// Array dos produtos
 const products = [
     {
       title: "AstroFiction",
@@ -235,7 +236,7 @@ function populateProducts(productList){
         })
 }
 
-
+// Products Section (All, Paid, Free)
 function producthandler(){
 
 
