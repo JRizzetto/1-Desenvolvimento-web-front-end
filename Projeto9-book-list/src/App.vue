@@ -48,6 +48,7 @@ import AddBook from './components/AddBook.vue'
     books.push(newBook);
     showAddBook.value = false;
     console.log(books)
+    
 }
 
   let showAddBook = ref(false);
